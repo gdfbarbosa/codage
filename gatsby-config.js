@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Codage.io`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Guilherme Barbosa`,
+      summary: `who lives and works from Brazil building interesting stuff.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog on codage (aka. coding) and other related content.`,
+    siteUrl: `https://codage.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `gdfbarbosa`,
     },
   },
   plugins: [
