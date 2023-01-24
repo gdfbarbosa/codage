@@ -13,6 +13,9 @@ As many of us, software engineers writing some content in the form of a blog, it
 2. Procédé propre à certains argots (largonji, verlan, etc.), consistant à masquer les mots de la langue courante par addition, suppression ou interversion de lettres ou de syllabes.
 3. Opération de traitement des réponses obtenues au questionnaire d'une enquête ou d'une interview, préalable au chiffrement.
 ```
+
 Source: [Larousse](https://www.larousse.fr/dictionnaires/francais/codage)
 
-The first definition in the famous french dictionary is what what we want here. The act of coding itself, algorithms, data structures, design patterns and more. I will be sharing lots of coding, techniques and problems solved in [LeetCode](https://leetcode.com/) and [HackerRank](https://hackerrank.com/), famous sites for interview preparations.
+The first definition in the famous french dictionary is what what we want here. The act of coding itself, algorithms, data structures, design patterns and more. I will be sharing lots of coding, techniques and even some problems solved in [LeetCode](https://leetcode.com/) and [HackerRank](https://hackerrank.com/), famous sites for interview preparations.
+
+Allons coder? Allons-y!
