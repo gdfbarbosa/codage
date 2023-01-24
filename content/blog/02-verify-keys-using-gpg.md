@@ -20,6 +20,10 @@ To check for the checksum, in SHA512, we can use:
 
 `echo "$(cat apache-maven-3.8.7-bin.zip.sha512) apache-maven-3.8.7-bin.zip" | sha512sum -c`
 
+It validates correctly:
+
+`apache-maven-3.8.7-bin.zip: OK`
+
 And, well, for the signature it is quite more challenging.
 
 Let's try:
